@@ -1,0 +1,13 @@
+name: Pantazium
+version: 0.0.1
+author: Zirewell
+main: fr.zirewell.pantazium.Main
+api-version: 1.16
+description: Ceci est le plugi de base de pantazium avec les fonctions basiques
+commands:
+  help:
+    description: Cette commande permet d'afficher l'aide
+  alert:
+    description: Ceci est un broadcast d'alerte
+  spawn:
+    descritpion: Cette commande permet d'aller au spawn
